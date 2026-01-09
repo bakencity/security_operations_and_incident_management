@@ -108,9 +108,9 @@ Each SPL query is supported by screenshots stored in the `evidence/` folder for 
 | 3 | Embedded executable | `HxTsr.exe` | `evidence/evidence_q3.png` |
 | 4 | Linux account password | `ilovedavidverve` | `evidence/evidence_q4.png` |
 | 5 | Windows malicious account | `svcvnc` | `evidence_q5.png` |
-| 6 | Assigned groups | `administrators,user` | `evidence_q6.png` |
-| 7 | PID on leet port | `14356` | `evidence_q7.png` |
-| 8 | MD5 of scanning tool | `586ef56f4d8963dd546163ac31c865d7` | `evidence_q8.png` |
+| 6 | Assigned groups | `administrators,user` | `evidence/evidence_q6.png` |
+| 7 | PID on leet port | `14356` | `evidence/evidence_q7.png` |
+| 8 | MD5 of scanning tool | `586ef56f4d8963dd546163ac31c865d7` | `evidence/evidence_q8.png` |
 
 ---
 
