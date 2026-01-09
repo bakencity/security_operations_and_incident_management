@@ -171,8 +171,7 @@ Applying the recommended defence strategies will significantly reduce the risk o
 
 # 9. Video Presentation  
 
-Insert your YouTube (unlisted) link below:  
-`https://youtu.be/YOUR-VIDEO-LINK`
+
 
 ---
 
@@ -213,5 +212,3 @@ evidence/
 
 ---
 
-# 12. AI Declaration  
-(Include this only in your submitted PDF. Not required for GitHub.)
