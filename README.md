@@ -3,7 +3,7 @@
 ## Assessment 2: BOTSv3 Incident Analysis  
 ### Author: (pg) Kehinde Akintade  
 ### Student ID: 10960353  
-### Year: 2026  
+### Year: 2025  
 
 ---
 
@@ -103,14 +103,14 @@ Each SPL query is supported by screenshots stored in the `evidence/` folder for 
 
 | No. | Question | Answer | Evidence |
 |-----|----------|--------|---------|
-| 1 | User agent that uploaded malicious link | `Mozilla/5.0 … NaenaraBrowser/3.5b4` | `evidence/user_agent.png` |
-| 2 | Macro‑enabled malware attachment | `Frothly‑Brewery‑Financial‑Planning‑FY2019‑Draft.xlsm` | `evidence/malicious_attachment.png` |
-| 3 | Embedded executable | `HxTsr.exe` | `evidence/hxtsr_sysmon.png` |
-| 4 | Linux account password | `ilovedavidverve` | `evidence/linux_account.png` |
-| 5 | Windows malicious account | `svcvnc` | — |
-| 6 | Assigned groups | `administrators,user` | — |
-| 7 | PID on leet port | `14356` | — |
-| 8 | MD5 of scanning tool | `586ef56f4d8963dd546163ac31c865d7` | — |
+| 1 | User agent that uploaded malicious link | `Mozilla/5.0 … NaenaraBrowser/3.5b4` | `evidence/evidence_q1.png` |
+| 2 | Macro‑enabled malware attachment | `Frothly‑Brewery‑Financial‑Planning‑FY2019‑Draft.xlsm` | `evidence/evidence_q2.png` |
+| 3 | Embedded executable | `HxTsr.exe` | `evidence/evidence_q3.png` |
+| 4 | Linux account password | `ilovedavidverve` | `evidence/evidence_q4.png` |
+| 5 | Windows malicious account | `svcvnc` | `evidence_q5.png` |
+| 6 | Assigned groups | `administrators,user` | `evidence_q6.png` |
+| 7 | PID on leet port | `14356` | `evidence_q7.png` |
+| 8 | MD5 of scanning tool | `586ef56f4d8963dd546163ac31c865d7` | `evidence_q8.png` |
 
 ---
 
@@ -179,14 +179,14 @@ Applying the recommended defence strategies will significantly reduce the risk o
 
 
 evidence/
-│── user_agent.png
-│── malicious_attachment.png
-│── hxtsr_sysmon.png
-│── linux_account.png
-│── botsv3_loaded.png
-│── virtualbox.png
-│── splunk_install.png
-│── any_additional_evidence.png
+│── evidence_q1.png
+│── evidence_q2.png
+│── evidence_q3.png
+│── evidence_q4.png
+│── evidence_q5.png
+│── evidence_q6.png
+│── evidence_q7.png
+│── evidence_q8.png
 
 ---
 
