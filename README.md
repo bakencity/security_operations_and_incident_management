@@ -35,7 +35,7 @@ This assessment mirrors SOC Tier 2 workflows by employing structured SPL queri
 The SOC environment was prepared as follows:
 
 1. Installed **VirtualBox** on macOS and deployed **Ubuntu 22.04 LTS**.  
-   - *Screenshot:* `evidence/virtualbox.png`
+   - *Screenshot:* `evidence/evidence_virtualbox.png`
 
 2. Installed **Splunk Enterprise** using the Linux `.tgz` package.  
    - *Screenshot:* `evidence/splunk_install.png`
@@ -50,7 +50,7 @@ The SOC environment was prepared as follows:
 index=botsv3 earliest=0
 This ensured full visibility of historical data without time restrictions.  
 
-- *Screenshot:* `evidence/botsv3_loaded.png`
+- *Screenshot:* `evidence/evidence_botsv3_data.png`
 
 ---
 
